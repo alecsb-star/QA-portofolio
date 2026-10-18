@@ -1,4 +1,4 @@
-#SauceDemo — Manual QA Practice
+# SauceDemo — Manual QA Practice
 
 This is my first manual testing project. I tested the SauceDemo shopping website to practice writing test cases, checking checkout functionality, and investigating unexpected behavior.
 
