@@ -12,3 +12,9 @@ Testing environment: Safari on iPadOS 26.6.2
 
 
 [SauceDemo QA Tests.xlsx](https://github.com/user-attachments/files/33665543/SauceDemo.QA.Tests.xlsx)
+
+
+## Bug Reports
+
+
+[SauceDemo BUG.pdf](https://github.com/user-attachments/files/33666594/SauceDemo.BUG.pdf)
